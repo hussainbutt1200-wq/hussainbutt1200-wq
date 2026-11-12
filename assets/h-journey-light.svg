@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="64" viewBox="0 0 1200 64" fill="none">
+<defs></defs><style>
+  .m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace} .s{font-family:'Inter','Segoe UI',Helvetica,Arial,sans-serif} .r{font-family:Georgia,'Times New Roman',serif}
+  .f{opacity:0;animation:in .8s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}}</style>
+
+<text class="m" x="0" y="40" font-size="13" letter-spacing="2" fill="#5b5bd6">04</text>
+<text class="s" x="40" y="42" font-size="24" font-weight="600" letter-spacing="-.5" fill="#18181b">Journey</text>
+<line x1="156" y1="34" x2="1200" y2="34" stroke="#00000018"/>
+</svg>

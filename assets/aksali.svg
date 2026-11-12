@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none">
+<defs><radialGradient id="g2"><stop offset="0" stop-color="#6d6cff" stop-opacity=".18"/><stop offset="1" stop-color="#6d6cff" stop-opacity="0"/></radialGradient></defs><style>
+  .m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace} .s{font-family:'Inter','Segoe UI',Helvetica,Arial,sans-serif} .r{font-family:Georgia,'Times New Roman',serif}
+  .f{opacity:0;animation:in .8s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}}</style>
+
+<rect x="0.5" y="0.5" width="1199" height="359" rx="18" fill="#09090d" stroke="#ffffff14"/>
+<circle cx="0" cy="360" r="320" fill="url(#g2)"/>
+<text class="m f" style="animation-delay:0.00s" x="64" y="84" font-size="12" letter-spacing="3" fill="#71717a">THE COMPANY I CO-FOUNDED</text>
+<text class="s f" style="animation-delay:0.08s" x="62" y="140" font-size="42" font-weight="600" letter-spacing="-1" fill="#f4f4f5">Aksali <tspan class="r" font-style="italic" font-weight="400" fill="#8b8cff">Technologies</tspan></text>
+<text class="s f" style="animation-delay:0.16s" x="64" y="190" font-size="17" fill="#a1a1aa">A software studio building web products, AI</text>
+<text class="s f" style="animation-delay:0.16s" x="64" y="216" font-size="17" fill="#a1a1aa">systems and cloud infrastructure for businesses</text>
+<text class="s f" style="animation-delay:0.16s" x="64" y="242" font-size="17" fill="#a1a1aa">that need software done properly.</text>
+<g class="f" style="animation-delay:0.24s"><rect x="64" y="276" width="152" height="40" rx="20" fill="#f4f4f5"/>
+<text class="m" x="140" y="301" text-anchor="middle" font-size="13" font-weight="600" fill="#09090d">aksali.com  ↗</text></g>
+<g class="f" style="animation-delay:0.16s"><line x1="620" y1="64" x2="860" y2="64" stroke="#ffffff22"/>
+<text class="m" x="620" y="94" font-size="12" fill="#8b8cff">01</text>
+<text class="s" x="620" y="122" font-size="18" font-weight="500" fill="#f4f4f5">Software Engineering</text></g><g class="f" style="animation-delay:0.24s"><line x1="890" y1="64" x2="1130" y2="64" stroke="#ffffff22"/>
+<text class="m" x="890" y="94" font-size="12" fill="#8b8cff">02</text>
+<text class="s" x="890" y="122" font-size="18" font-weight="500" fill="#f4f4f5">AI &amp; Machine Learning</text></g><g class="f" style="animation-delay:0.32s"><line x1="620" y1="156" x2="860" y2="156" stroke="#ffffff22"/>
+<text class="m" x="620" y="186" font-size="12" fill="#8b8cff">03</text>
+<text class="s" x="620" y="214" font-size="18" font-weight="500" fill="#f4f4f5">Cloud Infrastructure</text></g><g class="f" style="animation-delay:0.40s"><line x1="890" y1="156" x2="1130" y2="156" stroke="#ffffff22"/>
+<text class="m" x="890" y="186" font-size="12" fill="#8b8cff">04</text>
+<text class="s" x="890" y="214" font-size="18" font-weight="500" fill="#f4f4f5">Automation Workflows</text></g><g class="f" style="animation-delay:0.48s"><line x1="620" y1="248" x2="860" y2="248" stroke="#ffffff22"/>
+<text class="m" x="620" y="278" font-size="12" fill="#8b8cff">05</text>
+<text class="s" x="620" y="306" font-size="18" font-weight="500" fill="#f4f4f5">Backend &amp; Data Systems</text></g><g class="f" style="animation-delay:0.56s"><line x1="890" y1="248" x2="1130" y2="248" stroke="#ffffff22"/>
+<text class="m" x="890" y="278" font-size="12" fill="#8b8cff">06</text>
+<text class="s" x="890" y="306" font-size="18" font-weight="500" fill="#f4f4f5">UI/UX Design</text></g>
+
+</svg>

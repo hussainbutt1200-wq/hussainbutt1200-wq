@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="340" viewBox="0 0 590 340" fill="none">
+<defs></defs><style>
+  .m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace} .s{font-family:'Inter','Segoe UI',Helvetica,Arial,sans-serif} .r{font-family:Georgia,'Times New Roman',serif}
+  .f{opacity:0;animation:in .8s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}}</style>
+
+<rect x="0.5" y="0.5" width="589" height="339" rx="18" fill="#09090d" stroke="#ffffff14"/>
+<text class="m f" style="animation-delay:0.00s" x="36" y="52" font-size="11" letter-spacing="2.5" fill="#71717a">MACHINE LEARNING  /  HEALTHCARE</text>
+<text class="s f" style="animation-delay:0.08s" x="36" y="94" font-size="24" font-weight="600" letter-spacing="-.5" fill="#f4f4f5">Chronic Kidney Disease</text>
+<text class="r f" style="animation-delay:0.08s" x="36" y="124" font-size="24" font-style="italic" fill="#8b8cff">Prediction System</text>
+<g class="f" style="animation-delay:0.16s"><text class="r" x="554" y="104" text-anchor="end" font-size="52" fill="#f4f4f5">88.15<tspan font-size="28" fill="#8b8cff">%</tspan></text><text class="m" x="554" y="128" text-anchor="end" font-size="11" letter-spacing="2" fill="#71717a">MODEL ACCURACY</text></g>
+<g class="f" style="animation-delay:0.24s"><text class="s" x="36" y="180" font-size="15" fill="#a1a1aa">A CNN built in TensorFlow/Keras, served through a Flask API</text><text class="s" x="36" y="205" font-size="15" fill="#a1a1aa">with a React and Node.js app on top for real-time diagnosis.</text><text class="s" x="36" y="230" font-size="15" fill="#a1a1aa">Includes preprocessing and data augmentation.</text></g>
+<g class="f" style="animation-delay:0.32s"><rect x="36" y="274" width="108" height="30" rx="15" fill="#ffffff06" stroke="#ffffff22"/><text class="m" x="90" y="294" text-anchor="middle" font-size="12" fill="#e4e4e7">TensorFlow</text><rect x="152" y="274" width="69" height="30" rx="15" fill="#ffffff06" stroke="#ffffff22"/><text class="m" x="186.5" y="294" text-anchor="middle" font-size="12" fill="#e4e4e7">Keras</text><rect x="229" y="274" width="69" height="30" rx="15" fill="#ffffff06" stroke="#ffffff22"/><text class="m" x="263.5" y="294" text-anchor="middle" font-size="12" fill="#e4e4e7">Flask</text><rect x="306" y="274" width="69" height="30" rx="15" fill="#ffffff06" stroke="#ffffff22"/><text class="m" x="340.5" y="294" text-anchor="middle" font-size="12" fill="#e4e4e7">React</text><rect x="383" y="274" width="85" height="30" rx="15" fill="#ffffff06" stroke="#ffffff22"/><text class="m" x="425.5" y="294" text-anchor="middle" font-size="12" fill="#e4e4e7">Node.js</text></g>
+
+</svg>

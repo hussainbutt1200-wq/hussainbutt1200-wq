@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" fill="none">
+<defs><pattern id="grid2" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#ffffff07"/></pattern></defs><style>
+  .m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace} .s{font-family:'Inter','Segoe UI',Helvetica,Arial,sans-serif} .r{font-family:Georgia,'Times New Roman',serif}
+  .f{opacity:0;animation:in .8s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}}</style>
+
+<rect x="0.5" y="0.5" width="1199" height="239" rx="18" fill="#09090d" stroke="#ffffff14"/>
+<rect x="1" y="1" width="1198" height="238" rx="18" fill="url(#grid2)"/>
+<text class="m f" style="animation-delay:0.00s" x="600" y="70" text-anchor="middle" font-size="12" letter-spacing="3" fill="#71717a">OPEN TO PROJECTS &amp; COLLABORATION</text>
+<text class="s f" style="animation-delay:0.08s" x="600" y="128" text-anchor="middle" font-size="40" font-weight="600" letter-spacing="-1" fill="#f4f4f5">Let's build something <tspan class="r" font-style="italic" font-weight="400" fill="#8b8cff">worth shipping.</tspan></text>
+<text class="m f" style="animation-delay:0.16s" x="600" y="180" text-anchor="middle" font-size="14" fill="#a1a1aa">aksali.com   <tspan fill="#71717a">·</tspan>   linkedin.com/in/hussain-hassan-butt</text>
+
+</svg>

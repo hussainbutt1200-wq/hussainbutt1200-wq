@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="340" viewBox="0 0 590 340" fill="none">
+<defs></defs><style>
+  .m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace} .s{font-family:'Inter','Segoe UI',Helvetica,Arial,sans-serif} .r{font-family:Georgia,'Times New Roman',serif}
+  .f{opacity:0;animation:in .8s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}}</style>
+
+<rect x="0.5" y="0.5" width="589" height="339" rx="18" fill="#09090d" stroke="#ffffff14"/>
+<text class="m f" style="animation-delay:0.00s" x="36" y="52" font-size="11" letter-spacing="2.5" fill="#71717a">COMMERCE  /  FRONTEND</text>
+<text class="s f" style="animation-delay:0.08s" x="36" y="94" font-size="24" font-weight="600" letter-spacing="-.5" fill="#f4f4f5">E-Commerce</text>
+<text class="r f" style="animation-delay:0.08s" x="36" y="124" font-size="24" font-style="italic" fill="#8b8cff">Web Application</text>
+<g class="f" style="animation-delay:0.16s"><rect x="398" y="92" width="46" height="30" rx="8" fill="#ffffff08" stroke="#ffffff22"/><rect x="452" y="76" width="46" height="46" rx="8" fill="#ffffff08" stroke="#ffffff22"/><rect x="506" y="60" width="46" height="62" rx="8" fill="#8b8cff26" stroke="#8b8cff77"/><text class="m" x="554" y="148" text-anchor="end" font-size="11" letter-spacing="2" fill="#71717a">MODULAR ARCHITECTURE</text></g>
+<g class="f" style="animation-delay:0.24s"><text class="s" x="36" y="180" font-size="15" fill="#a1a1aa">A full e-commerce platform with product listings, a</text><text class="s" x="36" y="205" font-size="15" fill="#a1a1aa">persistent cart stored in LocalStorage and a responsive</text><text class="s" x="36" y="230" font-size="15" fill="#a1a1aa">interface, built on React and REST APIs.</text></g>
+<g class="f" style="animation-delay:0.32s"><rect x="36" y="274" width="69" height="30" rx="15" fill="#ffffff06" stroke="#ffffff22"/><text class="m" x="70.5" y="294" text-anchor="middle" font-size="12" fill="#e4e4e7">React</text><rect x="113" y="274" width="108" height="30" rx="15" fill="#ffffff06" stroke="#ffffff22"/><text class="m" x="167" y="294" text-anchor="middle" font-size="12" fill="#e4e4e7">JavaScript</text><rect x="229" y="274" width="100" height="30" rx="15" fill="#ffffff06" stroke="#ffffff22"/><text class="m" x="279" y="294" text-anchor="middle" font-size="12" fill="#e4e4e7">REST APIs</text><rect x="337" y="274" width="124" height="30" rx="15" fill="#ffffff06" stroke="#ffffff22"/><text class="m" x="399" y="294" text-anchor="middle" font-size="12" fill="#e4e4e7">LocalStorage</text></g>
+
+</svg>

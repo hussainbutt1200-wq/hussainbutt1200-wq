@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="340" viewBox="0 0 590 340" fill="none">
+<defs></defs><style>
+  .m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace} .s{font-family:'Inter','Segoe UI',Helvetica,Arial,sans-serif} .r{font-family:Georgia,'Times New Roman',serif}
+  .f{opacity:0;animation:in .8s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}}.lv{transform-origin:478px 92px;animation:lv 2s ease-out infinite}@keyframes lv{0%{transform:scale(.5);opacity:1}100%{transform:scale(2.2);opacity:0}}</style>
+
+<rect x="0.5" y="0.5" width="589" height="339" rx="18" fill="#09090d" stroke="#ffffff14"/>
+<text class="m f" style="animation-delay:0.00s" x="36" y="52" font-size="11" letter-spacing="2.5" fill="#71717a">REAL-TIME  /  MULTIPLAYER</text>
+<text class="s f" style="animation-delay:0.08s" x="36" y="94" font-size="24" font-weight="600" letter-spacing="-.5" fill="#f4f4f5">Rock Paper Scissors</text>
+<text class="r f" style="animation-delay:0.08s" x="36" y="124" font-size="24" font-style="italic" fill="#8b8cff">Live Multiplayer Arena</text>
+<g class="f" style="animation-delay:0.16s"><circle class="lv" cx="478" cy="92" r="14" fill="#8b8cff44"/><circle cx="478" cy="92" r="6" fill="#8b8cff"/><text class="r" x="554" y="104" text-anchor="end" font-size="34" font-style="italic" fill="#f4f4f5">live</text><text class="m" x="554" y="148" text-anchor="end" font-size="11" letter-spacing="2" fill="#71717a">SOCKETS  ·  CHAT  ·  LEADERBOARD</text></g>
+<g class="f" style="animation-delay:0.24s"><text class="s" x="36" y="180" font-size="15" fill="#a1a1aa">A real-time multiplayer Rock Paper Scissors game</text><text class="s" x="36" y="205" font-size="15" fill="#a1a1aa">with live chat and a leaderboard, kept in sync</text><text class="s" x="36" y="230" font-size="15" fill="#a1a1aa">between players over sockets.</text></g>
+<g class="f" style="animation-delay:0.32s"><rect x="36" y="274" width="108" height="30" rx="15" fill="#ffffff06" stroke="#ffffff22"/><text class="m" x="90" y="294" text-anchor="middle" font-size="12" fill="#e4e4e7">JavaScript</text><rect x="152" y="274" width="85" height="30" rx="15" fill="#ffffff06" stroke="#ffffff22"/><text class="m" x="194.5" y="294" text-anchor="middle" font-size="12" fill="#e4e4e7">Sockets</text><rect x="245" y="274" width="100" height="30" rx="15" fill="#ffffff06" stroke="#ffffff22"/><text class="m" x="295" y="294" text-anchor="middle" font-size="12" fill="#e4e4e7">Real-time</text></g>
+<text class="m f" style="animation-delay:0.40s" x="554" y="294" text-anchor="end" font-size="12" letter-spacing="1.5" fill="#8b8cff">VIEW REPO  ↗</text>
+</svg>

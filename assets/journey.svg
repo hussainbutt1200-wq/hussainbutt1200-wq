@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="596" viewBox="0 0 1200 596" fill="none">
+<defs></defs><style>
+  .m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace} .s{font-family:'Inter','Segoe UI',Helvetica,Arial,sans-serif} .r{font-family:Georgia,'Times New Roman',serif}
+  .f{opacity:0;animation:in .8s cubic-bezier(.2,.7,.2,1) forwards}
+  @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+  @media (prefers-reduced-motion:reduce){.f{animation:none;opacity:1}}.ring{transform-origin:300px 62px;animation:rg 2.4s ease-out infinite}@keyframes rg{0%{transform:scale(.6);opacity:1}100%{transform:scale(2);opacity:0}}</style>
+<rect x="0.5" y="0.5" width="1199" height="595" rx="18" fill="#09090d" stroke="#ffffff14"/><line x1="300" y1="62" x2="300" y2="494" stroke="#ffffff22"/><g class="f" style="animation-delay:0.00s">
+<text class="m" x="64" y="67" font-size="12" letter-spacing="2" fill="#8b8cff">NOW</text>
+<circle cx="300" cy="62" r="12" fill="#8b8cff33" class="ring"/>
+<circle cx="300" cy="62" r="5" fill="#8b8cff" stroke="#8b8cff" stroke-width="1.5"/>
+<text class="s" x="340" y="69" font-size="20" font-weight="600" fill="#f4f4f5">Co-Founder</text>
+<text class="m" x="340" y="96" font-size="13" fill="#c4b5fd">Aksali Technologies</text>
+<text class="s" x="340" y="122" font-size="15" fill="#a1a1aa">Leading product, engineering and AI delivery for client projects.</text></g><g class="f" style="animation-delay:0.08s">
+<text class="m" x="64" y="175" font-size="12" letter-spacing="2" fill="#71717a">2025 — NOW</text>
+
+<circle cx="300" cy="170" r="5" fill="#09090d" stroke="#a1a1aa" stroke-width="1.5"/>
+<text class="s" x="340" y="177" font-size="20" font-weight="600" fill="#f4f4f5">MSc Computer Science &amp; Technology</text>
+<text class="m" x="340" y="204" font-size="13" fill="#c4b5fd">Ulster University, London</text>
+<text class="s" x="340" y="230" font-size="15" fill="#a1a1aa">Knowledge Engineering, Machine Learning, Data Science.</text></g><g class="f" style="animation-delay:0.16s">
+<text class="m" x="64" y="283" font-size="12" letter-spacing="2" fill="#71717a">2023 — 2024</text>
+
+<circle cx="300" cy="278" r="5" fill="#09090d" stroke="#a1a1aa" stroke-width="1.5"/>
+<text class="s" x="340" y="285" font-size="20" font-weight="600" fill="#f4f4f5">Frontend Developer</text>
+<text class="m" x="340" y="312" font-size="13" fill="#c4b5fd">Devsinc</text>
+<text class="s" x="340" y="338" font-size="15" fill="#a1a1aa">React and Next.js products. Code splitting, lazy loading, REST integration.</text></g><g class="f" style="animation-delay:0.24s">
+<text class="m" x="64" y="391" font-size="12" letter-spacing="2" fill="#71717a">2023</text>
+
+<circle cx="300" cy="386" r="5" fill="#09090d" stroke="#a1a1aa" stroke-width="1.5"/>
+<text class="s" x="340" y="393" font-size="20" font-weight="600" fill="#f4f4f5">Associate Web Developer</text>
+<text class="m" x="340" y="420" font-size="13" fill="#c4b5fd">NETSOL Technologies</text>
+<text class="s" x="340" y="446" font-size="15" fill="#a1a1aa">Led work on 5 client projects and lifted front-end UX by 30%.</text></g><g class="f" style="animation-delay:0.32s">
+<text class="m" x="64" y="499" font-size="12" letter-spacing="2" fill="#71717a">2021 — 2025</text>
+
+<circle cx="300" cy="494" r="5" fill="#09090d" stroke="#a1a1aa" stroke-width="1.5"/>
+<text class="s" x="340" y="501" font-size="20" font-weight="600" fill="#f4f4f5">BSc Computer Science</text>
+<text class="m" x="340" y="528" font-size="13" fill="#c4b5fd">University of Central Punjab</text>
+<text class="s" x="340" y="554" font-size="15" fill="#a1a1aa">Minors in Web Development, Database Systems and AI.</text></g>
+</svg>
